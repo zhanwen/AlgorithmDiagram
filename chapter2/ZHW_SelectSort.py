@@ -1,4 +1,4 @@
-#查找数组中的最小数的索引
+﻿#查找数组中的最小数的索引
 def findMinNumber(array) :
     min = array[0]
     min_index = 0
@@ -7,6 +7,7 @@ def findMinNumber(array) :
             min = array[i]
             min_index = i
     return min_index
+
 
 #选择排序
 def selectSort(array) :
