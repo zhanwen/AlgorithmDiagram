@@ -15,3 +15,4 @@ def binary_search(list, item):
 list = [1,2,3,4,5,6,7]
 binary_search(list, 3) 
 binary_search(list, 6)
+
