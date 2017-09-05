@@ -15,12 +15,12 @@ def binary_search(list, item):
             low = mid + 1
     return -1
 
-if __name__ == '__main__':
-    list = [1, 2, 3, 4, 5, 6, 7]
 
-    # 能找到对应的值
-    print binary_search(list, 3)
-    print binary_search(list, 6)
+list = [1, 2, 3, 4, 5, 6, 7]
 
-    # 不能找到对应的值
-    print binary_search(list, 8)
+# 能找到对应的值
+print binary_search(list, 3)
+print binary_search(list, 6)
+
+# 不能找到对应的值
+print binary_search(list, 8)
