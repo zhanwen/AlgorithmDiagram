@@ -5,7 +5,7 @@ using namespace std;
 //找出基准元的方法很多，取第一个或者最后一个都不是一个好方法
 //具体可以自行上网查阅资料
 int Sort(int arr[], int left, int right) {
-	//去第一个元素为基准元
+	//取第一个元素为基准元
 	int pivotValue = arr[left];
 
 	//使用双向扫描法完成分块
