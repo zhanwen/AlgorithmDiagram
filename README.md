@@ -116,7 +116,9 @@
   
  - 第二部分内容计划在剩余的时间内完成。最重要的是大家一定要自己将算法写出来并能运行，才会有更多的收获。
   
-  
+ 
+### 想提高自己的技术和认知
+<img src="./images/algorithmdiagram.jpg" width=256 height=256 />
 
 
   [1]: https://github.com/zhanwen/AlgorithmDiagram
